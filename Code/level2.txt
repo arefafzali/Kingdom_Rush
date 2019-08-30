@@ -1,0 +1,11 @@
+5000,wwww
+25000,wwww
+30000,wwwww
+50000,d
+70000,dww
+74000,d
+78000,wwww
+98000,oooood
+102000,ad
+110000,wwwwww
+112000,ooooda

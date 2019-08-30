@@ -1,0 +1,9 @@
+5000,ooo
+20000,ooo
+24000,ooo
+44000,aa
+60000,aooo
+66000,aoooo
+90000,aoooo
+95000,oooooo
+101000,aooooo
